@@ -1,15 +1,15 @@
     <div class="bkgr wirsind">
 
-                <button class="pageBtn height1 width1 icon icon_back" data-page="home" data-animate="ease" data-direction="right">
+                <button class="pageBtn height10 width1 icon icon_back" data-page="home" data-animate="ease" data-direction="right">
                 </button>
 
-                 <button class="pageBtn height1 width1 floatright icon icon_logo" data-page="mavie_menu" data-animate="ease" data-direction="bottom"></button>
+                 <button class="pageBtn height10 width1 floatright icon icon_logo" data-page="mavie_menu" data-animate="ease" data-direction="bottom"></button>
         
-            <div class="height13">
+            <div class="height20">
         
             </div>
         
-            <div class="height17 marginleft_hl">
+            <div class="height20 marginleft_hl">
                     <h1 class="h1c3">Schön, <br></h1>
                     <h1 class="h1c2">dass du hier bist! </h1>
                     <h1 class="h1c1">Wir sind mavie </h1>
@@ -18,18 +18,18 @@
         
             <div class="marginleft_p_wirsind bodycopy width35">
                     <p>
-                        Wir können dir helfen! Wir helfen jedem! All unsere psychologischen, ärtzlichen oder sozialen Services sind kostenlos. Und keine Sorge, egal ob man eine Krankenversicherung hat, eine Aufenthaltsbewilligung in Deutschland, oder nicht. Alles natürlich streng vertraulich. <br> Wir können dir helfen!
+                        Wir können dir helfen! Wir helfen jedem! All unsere psychologischen, ärtzlichen oder sozialen Services sind kostenlos. Und keine Sorge, egal ob man eine Krankenversicherung hat, eine Aufenthaltsbewilligung in Deutschland, oder nicht. Alles natürlich streng vertraulich. Wir können dir helfen!
                     </p>
             </div>
         
-           <div class="height09"></div>
+           <div class="height15"></div>
 
         
-               <button class="height1 width1 icon icon_speaker">
+               <button class="height10 width1 icon icon_speaker">
                 </button> 
         
             
-             <button class="pageBtn height1 width1 floatright icon icon_next" data-page="seite3" data-animate="ease" data-direction="left"></button>
+             <button class="pageBtn height10 width1 floatright icon icon_next" data-page="seite3" data-animate="ease" data-direction="left"></button>
     
         </div>
 

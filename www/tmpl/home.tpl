@@ -1,22 +1,21 @@
     <div class="bkgr sprachauswahl">
 
-                <button class="pageBtn height1 width1 icon icon_back" data-page="back" data-animate="ease" data-direction="right">
+                <button class="pageBtn height10 width1 icon icon_back" data-page="back" data-animate="ease" data-direction="right">
                 </button> 
         
-                 <button class="pageBtn height1 width1 floatright icon icon_logo" data-page="mavie_menu" data-animate="ease" data-direction="bottom"></button>
+                 <button class="pageBtn height10 width1 floatright icon icon_logo" data-page="mavie_menu" data-animate="ease" data-direction="bottom"></button>
 
         
-            <div class="height1">
+            <div class="height15 ">
         
             </div>
         
-            <div class="marginleft_hl height1">
+            <div class="marginleft_hl height10">
                     <h1 class="h1c1">Welche Sprache <br></h1>
                     <h1 class="h1c2">sprichst du? </h1>
             </div>
         
-        
-                <div class="pageBtn marginleft_p list" data-page="seite2" data-animate="ease" data-direction="left">
+                <div class="pageBtn  height20 marginleft_p list" data-page="seite2" data-animate="ease" data-direction="left">
                     <p>
                         Ich spreche Deutsch <br>
                         I speak English<br>
@@ -25,9 +24,9 @@
                     </p>
                 </div>
         
-                <div class="height23"></div>
+                <div class="height35"></div>
         
-             <button class="height1 width1 icon icon_speaker"></button>
+             <button class="height10 width1 icon icon_speaker"></button>
         </div>
 
 <!--

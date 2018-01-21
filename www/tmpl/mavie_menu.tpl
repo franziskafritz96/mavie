@@ -1,19 +1,21 @@
-    <div class="bkgr wirsind">
+    <div class="bkgr menu">
         
         
-            <button class="height1 width1 floatright icon icon_close"></button>
+            <button class="pageBtn btn-back height10 width1 floatright icon icon_close" data-task="back" data-animate="ease" data-direction="top"></button>
         
-            <div class="height2">
+
+        
+            <div class="height30">
         
             </div>
         
-            <div class="height15 marginleft_hl">
+            <div class="height10 marginleft_hl">
                     <h1 class="h1c2">mavie </h1>
                     <h1 class="h1c1">menü </h1>
             </div>
         
         
-            <div class="marginleft_p_wirsind bodycopy width3 bodycopy">              <p>
+            <div class="marginleft_p_wirsind height10 bodycopy width3 list_helfen">              <p>
                         über uns > <br>
                         <br>
                         unser Angebot für dich ><br>
@@ -28,9 +30,9 @@
                     </p> 
             </div>
         
-            <div class="height06"></div>
+            <div class="height40"></div>
 
-            <button class="height1 width1 icon icon_speaker">
+            <button class="height10 width1 icon icon_speaker">
             </button> 
         
         </div>

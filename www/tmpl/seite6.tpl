@@ -1,23 +1,23 @@
     <div class="bkgr spirale">
 
-                <button class="pageBtn height1 width1 icon icon_back" data-page="seite5" data-animate="ease" data-direction="right">
+                <button class="pageBtn height10 width1 icon icon_back" data-page="seite5" data-animate="ease" data-direction="right">
                 </button>
 
-                 <button class="pageBtn height1 width1 floatright icon icon_logo" data-page="mavie_menu" data-animate="ease" data-direction="bottom"></button>
+                 <button class="pageBtn height10 width1 floatright icon icon_logo" data-page="mavie_menu" data-animate="ease" data-direction="bottom"></button>
         
                     
-            <div class="height1"></div>
+            <div class="height15"></div>
         
         
         
-            <div class="height11 marginleft_hl">
+            <div class="height15 marginleft_hl">
                     <h1 class="h1c3">Infos zur <br></h1>
                     <h1 class="h1c2">Hormonspirale</h1>
             </div>
         
         
         
-            <div class="marginleft_p_wirsind bodycopy width35">
+            <div class="marginleft_p_wirsind height20 bodycopy width35">
                     <p>
                         Die meisten jungen Frauen verhüten mit Pille oder Kondom. Die Hormonspirale bietet einen sehr sicheren Schutz vor einer ungewollten Schwangerschaft bei gleichzeitig minimaler, lokaler Hormondosierung. Anwendungsfehler wie „vergessen“ gibt es nicht – Erbrechen, Durchfall oder reisebedingte Zeitverschiebungen haben keinen Einfluss auf die Wirksamkeit.
                     </p>
@@ -25,13 +25,13 @@
         
         
         
-            <div class="height13"></div>
+            <div class="height30"></div>
         
-            <button class="height1 width1 icon icon_speaker">
+            <button class="height10 width1 icon icon_speaker">
             </button> 
         
         
-            <button class="pageBtn height1 width1 floatright icon icon_next" data-page="seite7" data-animate="ease" data-direction="left"></button>
+            <button class="pageBtn height10 width1 floatright icon icon_next" data-page="seite7" data-animate="ease" data-direction="left"></button>
             
         
     

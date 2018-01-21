@@ -1,23 +1,24 @@
     <div class="bkgr frage">
 
-                <button class="pageBtn height1 width1 icon icon_back" data-page="seite2" data-animate="ease" data-direction="right">
+                <button class="pageBtn height10 width1 icon icon_back" data-page="seite2" data-animate="ease" data-direction="right">
                 </button>
 
-                 <button class="pageBtn height1 width1 floatright icon icon_logo" data-page="mavie_menu" data-animate="ease" data-direction="bottom"></button>
+                 <button class="pageBtn height10 width1 floatright icon icon_logo" data-page="mavie_menu" data-animate="ease" data-direction="bottom"></button>
         
-             <div class="height07">
+             <div class="height10">
         
             </div>
         
-            <div class="height25 marginleft_hl">
+            <div class="height20 marginleft_hl">
                     <h1 class="h1c3">Um dir best möglich <br></h1>
                     <h1 class="h1c2">helfen zu können, </h1>
                     <h1 class="h1c1">beantworte uns bitte </h1>
                     <h1 class="h1c1">ein paar Fragen: </h1>
             </div>
         
-        
-            <div class="pageBtn marginleft_p_wirsind bodycopy_click width3" data-page="seite4" data-animate="ease" data-direction="left">
+                                   <div class="height15"></div>
+
+            <div class="pageBtn height30 marginleft_p_wirsind bodycopy_click width3" data-page="seite4" data-animate="ease" data-direction="left">
                     <p>
                         Ja, ich beantworte die Fragen
                         <br>
@@ -28,10 +29,10 @@
                     </p>
             </div>
         
-                           <div class="height15"></div>
+                           <div class="height5"></div>
 
         
-                <button class="height1 width1 icon icon_speaker">
+                <button class="height10 width1 icon icon_speaker">
                 </button> 
         
     

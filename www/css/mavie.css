@@ -15,7 +15,7 @@ html, body {height: 100%; width: 100%;}
 /*    background-color: #faf6f9;*/
     background-repeat: no-repeat;
     background-size: 100% 100%;
-    background-position: center top;
+    background-position: left top;
     background-color: orange;
     color: #6e6e6e;
     }
@@ -62,31 +62,64 @@ html, body {height: 100%; width: 100%;}
 
 /** Layout Helper ***/
 
+.height1 {height: 1vh;}
+.height2 {height: 2vh;}
+.height3 {height: 3vh;}
+.height4 {height: 4vh;}
+.height5 {height: 5vh;}
+.height6 {height: 6vh;}
+.height7 {height: 7vh;}
+.height8 {height: 8vh;}
+.height9 {height: 9vh;}
+
+.height10 {height: 10vh;}
+.height15 {height: 15vh;}
+.height20 {height: 20vh;}
+.height25 {height: 20vh;}
+.height30 {height: 30vh;}
+.height35 {height: 35vh;}
+.height40 {height: 40vh;}
+.height50 {height: 50vh;}
+.height60 {height: 60vh;}
+.height70 {height: 70vh;}
+.height80 {height: 80vh;}
+.height90 {height: 90vh;}
+.height100 {height: 100vh;}
+
+
+/*
 .height01 {height:calc(100vh/8*0.1);}
 .height02 {height:calc(100vh/8*0.2);}
 .height05 {height:calc(100vh/8*0.5);}
 .height06 {height:calc(100vh/8*0.6);}
 .height07 {height:calc(100vh/8*0.7);}
+.height08 {height:calc(100vh/8*0.8);}
 .height09 {height:calc(100vh/8*0.9);}
 .height1  {height:calc(100vh/8);}
 .height11 {height:calc(100vh/8*1.1);}
 .height115 {height:calc(100vh/8*1.15);}
 .height13 {height:calc(100vh/8*1.3);}
 .height15 {height:calc(100vh/8*1.5);}
+.height16 {height:calc(100vh/8*1.6);}
 .height17 {height:calc(100vh/8*1.7);}
+.height18 {height:calc(100vh/8*1.8);}
 .height2 {height:calc(100vh/8*2);}
 .height22 {height:calc(100vh/8*2.2);}
 .height23 {height:calc(100vh/8*2.3);}
+.height24 {height:calc(100vh/8*2.4);}
 .height25 {height:calc(100vh/8*2.5);}
+.height26 {height:calc(100vh/8*2.6);}
 .height28 {height:calc(100vh/8*2.8);}
 .height3 {height:calc(100vh/8*3);}
 .height32 {height:calc(100vh/8*3.2);}
 .height38 {height:calc(100vh/8*3.8);}
 .height4 {height:calc(100vh/8*4);}
+.height42 {height:calc(100vh/8*4.2);}
 .height5 {height:calc(100vh/8*5);}
 .height6 {height:calc(100vh/8*6);}
 .height7 {height:calc(100vh/8*7);}
 .height8 {height:100vh;}
+*/
  
  
 .width05 {width:calc(100vw/5*0.5);}

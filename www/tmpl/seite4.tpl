@@ -1,41 +1,41 @@
     <div class="bkgr schwanger">
 
-                <button class="pageBtn height1 width1 icon icon_back" data-page="seite3" data-animate="ease" data-direction="right">
+                <button class="pageBtn height10 width1 icon icon_back" data-page="seite3" data-animate="ease" data-direction="right">
                 </button>
 
-                 <button class="pageBtn height1 width1 floatright icon icon_logo" data-page="mavie_menu" data-animate="ease" data-direction="bottom"></button>
+                 <button class="pageBtn height10 width1 floatright icon icon_logo" data-page="mavie_menu" data-animate="ease" data-direction="bottom"></button>
         
-            <div class="height05">
+            <div class="height15">
             </div>
         
-            <div class="height1 marginleft_hl">
+            <div class="height10 marginleft_hl">
                     <h1 class="h1c1">Bist du schwanger?</h1>
             </div>
         
         
-            <button class="pageBtn width05 list_schwanger marginleft_hl" data-page="seite5" data-animate="ease" data-direction="left">
+            <button class="pageBtn height5 width05 list_schwanger marginleft_hl" data-page="seite5" data-animate="ease" data-direction="left">
                     <p>
                         Nein
                     </p>
                 
             </button>
         
-           <button class="pageBtn width2 list_schwanger marginleft_hl" data-page="seite5" data-animate="ease" data-direction="left">
+           <button class="pageBtn width2 height5 list_schwanger marginleft_hl" data-page="seite5" data-animate="ease" data-direction="left">
                     <p>
                         Ich weiß es nicht
                     </p>
             </button>
         
-            <button class="pageBtn width05 list_schwanger marginleft_hl" data-page="seite5" data-animate="ease" data-direction="left">
+            <button class="pageBtn width05 height5 list_schwanger marginleft_hl" data-page="seite5" data-animate="ease" data-direction="left">
                     <p>
                         Ja
                     </p>
         </button>
 
         
-            <div class="height38"></div>
+            <div class="height50"></div>
 
-            <button class="height1 width1 icon icon_speaker">
+            <button class="height10 width1 icon icon_speaker">
             </button> 
         
     

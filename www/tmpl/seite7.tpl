@@ -1,34 +1,35 @@
     <div class="bkgr videopage">
 
-                <button class="pageBtn height1 width1 icon icon_back" data-page="seite6" data-animate="ease" data-direction="right">
+                <button class="pageBtn height10 width1 icon icon_back" data-page="seite6" data-animate="ease" data-direction="right">
                 </button>
 
-                 <button class="pageBtn height1 width1 floatright icon icon_logo" data-page="mavie_menu" data-animate="ease" data-direction="bottom"></button>
+                 <button class="pageBtn height10 width1 floatright icon icon_logo" data-page="mavie_menu" data-animate="ease" data-direction="bottom"></button>
         
-            <div class="height1">
+            <div class="height10">
         
             </div>
         
-            <div class="height38 marginleft_hl">
+            <div class="height30 marginleft_hl">
                     <h1 class="h1c2">Video:   </h1>
                     <h1 class="h1c1">Jung & schwanger </h1>
             </div>
         
+                   <div class="height20"></div>
+
         
-            <div class="marginleft_p_wirsind bodycopy width3">
+            <div class="marginleft_p_wirsind height20 bodycopy width3">
                     <p>
                         Dana wurde mit 16 schwanger <br>
                         Sie erzählt ihre Geschichte und gibt Tipps für Mädchen, die in einer ähnlichen Situation stecken
                     </p>
             </div> 
         
-           <div class="height01"></div>
         
-            <button class="height1 width1 icon icon_speaker">
+            <button class="height10 width1 icon icon_speaker">
             </button> 
         
         
-            <button class="height1 width1 floatright icon icon_next"></button>
+            <button class="height10 width1 floatright icon icon_next"></button>
             
         
     

@@ -1,21 +1,21 @@
     <div class="bkgr sohelfen">
 
-                <button class="pageBtn height1 width1 icon icon_back" data-page="seite4" data-animate="ease" data-direction="right">
+                <button class="pageBtn height10 width1 icon icon_back" data-page="seite4" data-animate="ease" data-direction="right">
                 </button>
 
-                 <button class="pageBtn height1 width1 floatright icon icon_logo" data-page="mavie_menu" data-animate="ease" data-direction="bottom"></button>
+                 <button class="pageBtn height10 width1 floatright icon icon_logo" data-page="mavie_menu" data-animate="ease" data-direction="bottom"></button>
         
-             <div class="height13">
+             <div class="height15">
             </div>
         
         
-            <div class="height13 marginleft_hl">
+            <div class="height15 marginleft_hl">
                     <h1 class="h1c2">So können wir  </h1>
                     <h1 class="h1c1">dir helfen: </h1>
             </div>
         
         
-            <div class="pageBtn marginleft_p_wirsind list_helfen width3" data-page="seite6" data-animate="ease" data-direction="left">
+            <div class="pageBtn height30 marginleft_p_wirsind list_helfen width3" data-page="seite6" data-animate="ease" data-direction="left">
                     <p>
                         Informationen über <br>
                         Verhütungsmittel >
@@ -32,10 +32,10 @@
                     </p>
             </div>
         
-           <div class="height02">
+           <div class="height20">
             </div>
         
-             <button class="height1 width1 icon icon_speaker">
+             <button class="height10 width1 icon icon_speaker">
             </button> 
         
     
