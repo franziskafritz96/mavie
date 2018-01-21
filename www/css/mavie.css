@@ -1,0 +1,259 @@
+html, body {height: 100%; width: 100%;}
+
+@font-face { font-family: 'graublausans_b';
+             src: url('font/GraublauSans-Bold.otf')
+}
+
+@font-face { font-family: 'graublausans_r';
+             src: url('font/GraublauSans-Regular.otf'); 
+}
+
+
+.bkgr {
+    
+    margin: 0;
+/*    background-color: #faf6f9;*/
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center top;
+    background-color: orange;
+    color: #6e6e6e;
+    }
+
+/** HGs ***/
+
+.splash {background-image: url(../img/hg_splash.jpg);
+}
+
+/********* mavie_menu *****************/
+.menu {background-image: url(../img/hg_menu.jpg);
+}
+
+/********* home *****************/
+.sprachauswahl {
+    background-image: url(../img/hg_sprache.jpg);
+}
+
+/********* seite2 *****************/
+.wirsind {background-image: url(../img/hg_wirsind.jpg);
+}
+
+/********* seite3 *****************/
+.frage {background-image: url(../img/hg_fragen.jpg);
+}
+
+/********* seite4 *****************/
+.schwanger {background-image: url(../img/hg_schwanger.jpg);
+}
+
+/********* seite5 *****************/
+.sohelfen {background-image: url(../img/hg_sohelfen.jpg);
+}
+
+/********* seite6 *****************/
+.spirale {background-image: url(../img/hg_spirale.jpg);
+}
+
+/********* seite7 *****************/
+.videopage {background-image: url(../img/hg_video.jpg);
+}
+
+
+
+/** Layout Helper ***/
+
+.height01 {height:calc(100vh/8*0.1);}
+.height02 {height:calc(100vh/8*0.2);}
+.height05 {height:calc(100vh/8*0.5);}
+.height06 {height:calc(100vh/8*0.6);}
+.height07 {height:calc(100vh/8*0.7);}
+.height09 {height:calc(100vh/8*0.9);}
+.height1  {height:calc(100vh/8);}
+.height11 {height:calc(100vh/8*1.1);}
+.height115 {height:calc(100vh/8*1.15);}
+.height13 {height:calc(100vh/8*1.3);}
+.height15 {height:calc(100vh/8*1.5);}
+.height17 {height:calc(100vh/8*1.7);}
+.height2 {height:calc(100vh/8*2);}
+.height22 {height:calc(100vh/8*2.2);}
+.height23 {height:calc(100vh/8*2.3);}
+.height25 {height:calc(100vh/8*2.5);}
+.height28 {height:calc(100vh/8*2.8);}
+.height3 {height:calc(100vh/8*3);}
+.height32 {height:calc(100vh/8*3.2);}
+.height38 {height:calc(100vh/8*3.8);}
+.height4 {height:calc(100vh/8*4);}
+.height5 {height:calc(100vh/8*5);}
+.height6 {height:calc(100vh/8*6);}
+.height7 {height:calc(100vh/8*7);}
+.height8 {height:100vh;}
+ 
+ 
+.width05 {width:calc(100vw/5*0.5);}
+.width1 {width:calc(100vw/5);}
+.width15 {width:calc(100vw/5*1.5);}
+.width2 {width:calc(100vw/5*2);}
+.width3 {width:calc(100vw/5*3);}
+.width35 {width:calc(100vw/5*3.5);}
+.width4 {width:calc(100vw/5*4);}
+.width5 {width:calc(100vw);}
+
+.marginleft_hl {margin-left: 12vw;}
+.marginleft_vorleseicon {margin-left: 2vw;}
+.marginleft_nexticon {margin-left: 30vw;}
+.marginleft_p {margin-left: 20vw;}
+.marginleft_p_wirsind {margin-left: 26vw;}
+.marginmiddle {margin-left: 40vw;}
+.marginright {margin-left: 75vw;}
+
+
+/**** hier alle Icons, zum wiederverwenden.... */
+
+button {background: transparent; border: none;}
+.floatright {float: right;}
+.center {align-items: center;}
+
+
+
+.icon {background-repeat: no-repeat;background-position: center;}
+
+
+
+.icon_back {background-image: url(../img/backicon-51.png);
+            background-size: 40%;
+            background-position: center 2vh;}
+
+.icon_next {background-image: url(../img/nexticon.png);
+            background-size: 40%;}
+
+.icon_logo { 
+    background-image: url(../img/logo.png);
+    background-size: 70%;
+    background-position: center 2vh;
+}
+
+.icon_close { 
+    background-image: url(../img/closeicon.png);
+    background-size: 50%;
+}
+
+.icon_speaker {
+    background-image: url(../img/vorlesefunktionicon_neu-54.png);
+    background-size: 50% 50%
+}
+
+
+
+
+.flex {display: flex;}
+
+
+/******* Font *******/
+
+h1 {
+    font-family: 'graublausans_b';
+/*    font-family: sans-serif;*/
+    font-size: 180%;
+    margin: 0;}
+    
+.h1c1 {color: #f08050;}
+    
+.h1c2 {color: #f29581;}
+
+.h1c3 {color: #f7bf93;}
+
+
+p {
+/*    font-family: sans-serif;*/
+    font-family: 'graublausans_r';
+    margin: 0;
+}
+
+a {color: inherit;
+  text-decoration: inherit;}
+
+
+.bodycopy {
+        font-family: 'graublausans_b';
+        font-size: 80%;
+        line-height: 1.8;}
+
+.bodycopy_click {
+        font-family: 'graublausans_r';
+        font-weight: bold; 
+
+        font-size: 80%;
+        line-height: 1.8;}
+
+.listsmall {font-size: 60%;
+            font-family: 'graublausans_b';
+            font-weight: bold; 
+            line-height: 3.4;}
+
+.list {line-height: 3;
+        font-family: 'graublausans_b';
+        font-weight: bold; 
+        font-size: 100%;}
+
+.list_schwanger {line-height: 1.8;
+        font-family: 'graublausans_b';
+        font-weight: bold; 
+        font-size: 100%;
+        color: #6e6e6e;
+        text-align: center;}
+
+.list_helfen {line-height: 1.8;
+        font-family: 'graublausans_b';
+        font-weight: bold; 
+        font-size: 80%;
+        color: #6e6e6e;}
+
+
+/***** Button Styles *******/
+ 
+button {background: transparent;
+        border: none;
+        -webkit-appearance: none; /* mach Button mobil weg */
+        color:white;
+    margin: 0;
+}
+ 
+.corner-radius1 {
+    border-radius: 2vw;
+}
+
+
+/**** Standard Farben   *****/
+ 
+.gradient1 {
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,7db9e8+100 */
+background: #1e5799; /* Old browsers */
+background: -moz-linear-gradient(top, #1e5799 0%, #7db9e8 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #1e5799 0%,#7db9e8 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #1e5799 0%,#7db9e8 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#7db9e8',GradientType=0 ); /* IE6-9 */
+     
+     
+}
+
+
+
+
+
+
+
+/*******Logo und Icons********/
+
+/*
+.logo {position: absolute;top: -4vh; right: -60vw; transform: scale(0.12);}
+
+.closeicon {position: absolute;top: -4vh; right: -45vw; transform: scale(0.1);}
+
+.vorleseicon {position: absolute;bottom: 0vh; left: -30vw; transform: scale(0.1);}
+
+.nexticon {position: absolute;bottom: 0vh; left: 28vw; transform: scale(0.1);}
+
+.backicon {position: absolute;top: -4vh; left: -30vw; transform: scale(0.1);}
+
+
+*/
