@@ -1,39 +1,36 @@
-    <div class="bkgr wirsind">
+    <div class="bkgr sprachauswahl">
 
-                <button class="pageBtn height10 width1 icon icon_back" data-page="seite1" data-animate="ease" data-direction="right">
-                </button>
-
-                 <button class="pageBtn height10 width1 floatright icon icon_logo" data-page="mavie_menu" data-animate="ease" data-direction="bottom"></button>
-        
-            <div class="height20">
-        
-            </div>
-        
-            <div class="height20 marginleft_hl">
-                    <h1 class="h1c3">Schön, <br></h1>
-                    <h1 class="h1c2">dass du hier bist! </h1>
-                    <h1 class="h1c1">Wir sind mavie </h1>
-            </div>
-        
-        
-            <div class="marginleft_p_wirsind bodycopy width35">
-                    <p>
-                        Wir können dir helfen! Wir helfen jedem! All unsere psychologischen, ärtzlichen oder sozialen Services sind kostenlos. Und keine Sorge, egal ob man eine Krankenversicherung hat, eine Aufenthaltsbewilligung in Deutschland, oder nicht. Alles natürlich streng vertraulich. Wir können dir helfen!
-                    </p>
-            </div>
-        
-           <div class="height15"></div>
-
-        
-               <button class="height10 width1 icon icon_speaker">
+                <button class="pageBtn height10 width1 icon icon_back" data-page="home" data-animate="ease" data-direction="right">
                 </button> 
         
-            
-             <button class="pageBtn height10 width1 floatright icon icon_next" data-page="seite3" data-animate="ease" data-direction="left"></button>
-    
+                 <button class="pageBtn height10 width1 floatright icon icon_logo" data-page="mavie_menu" data-animate="ease" data-direction="bottom"></button>
+
+        
+            <div class="height15 ">
+        
+            </div>
+        
+            <div class="marginleft_hl height10">
+                    <h1 class="h1c1">Welche Sprache <br></h1>
+                    <h1 class="h1c2">sprichst du? </h1>
+            </div>
+        
+                <div class="pageBtn  height20 marginleft_p list" data-page="seite2" data-animate="ease" data-direction="left">
+                    <p>
+                        Ich spreche Deutsch <br>
+                        I speak English<br>
+                        متابعة باللغة العربية
+                
+                    </p>
+                </div>
+        
+                <div class="height35"></div>
+        
+             <button class="height10 width1 icon icon_speaker"></button>
         </div>
 
 <!--
+
 
 <div class="h-2 header">
 	<h1>Home</h1>

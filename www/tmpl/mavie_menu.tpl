@@ -15,18 +15,31 @@
             </div>
         
         
-            <div class="marginleft_p_wirsind height10 bodycopy width3 list_helfen">              <p>
-                        über uns > <br>
-                        <br>
+            <div class="marginleft_p_wirsind height10 list_helfen width3 list_helfen">              
+                        
+                            <p>
+                                <br>
+
+                          <button class="pageBtn" data-page="seite2" data-animate="ease" data-direction="top">    über uns > <br>
+                                                      <br>
+
+                            </button>
+                                
+                        <button class="pageBtn" data-page="seite5" data-animate="ease" data-direction="top">
                         unser Angebot für dich ><br>
                             gesamtes Angebot<br>
                             Auswahl für dich<br>
+                          </button>
+
+                         <button class="pageBtn" data-page="seite7" data-animate="ease" data-direction="top">
                         <br>
                         mehr Infos ><br>
                             Videos<br>
                             Lesestoff<br>
                         <br>
-                        mein mavie ><br>
+                        </button>
+
+                        <button>mein mavie ><br> </button>
                     </p> 
             </div>
         
