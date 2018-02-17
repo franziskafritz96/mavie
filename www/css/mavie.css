@@ -153,11 +153,11 @@ button {background: transparent; border: none;}
 
 
 .icon_back {background-image: url(../img/backicon-51.png);
-            background-size: 40%;
+            background-size: 30%;
             background-position: center 2vh;}
 
 .icon_next {background-image: url(../img/nexticon.png);
-            background-size: 40%;}
+            background-size: 30%;}
 
 .icon_logo { 
     background-image: url(../img/logo.png);
@@ -167,7 +167,7 @@ button {background: transparent; border: none;}
 
 .icon_close { 
     background-image: url(../img/closeicon.png);
-    background-size: 50%;
+    background-size: 40%;
 }
 
 .icon_speaker {
